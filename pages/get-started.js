@@ -30,7 +30,7 @@ export default function GetStarted() {
                   href='mailto:support@blinder.com'
                   target='_blank'
                   rel='noreferrer'
-                  className='text-indigo-600 hover:text-indigo-400 font-medium duration-150'>
+                  className='text-orange-600 hover:text-orange-400 font-medium duration-150'>
                   support@urbnseek.online.
                 </a>
               </p>
@@ -45,7 +45,7 @@ export default function GetStarted() {
                     aria-label='Full name'
                     type='text'
                     required
-                    className='mt-2 focus:border-indigo-600'
+                    className='mt-2 focus:border-orange-500'
                   />
                 </div>
                 <div>
@@ -54,7 +54,7 @@ export default function GetStarted() {
                     aria-label='Email'
                     type='email'
                     required
-                    className='mt-2 focus:border-indigo-600'
+                    className='mt-2 focus:border-orange-500'
                   />
                 </div>
                 <div>
@@ -62,7 +62,7 @@ export default function GetStarted() {
                   <textarea
                     aria-label='Message'
                     required
-                    className='w-full mt-2 h-36 px-3 py-2 resize-none appearance-none bg-transparent outline-none border focus:border-indigo-600 shadow-sm rounded-lg'></textarea>
+                    className='w-full mt-2 h-36 px-3 py-2 resize-none appearance-none bg-transparent outline-none border focus:border-orange-500 shadow-sm rounded-lg'></textarea>
                 </div>
                 <div>
                   <label>Service</label>
@@ -78,7 +78,7 @@ export default function GetStarted() {
                   </ul>
                 </div>
                 <div className='pt-1'>
-                  <Button className='w-full text-white bg-indigo-600 hover:bg-indigo-500 active:bg-indigo-600 ring-offset-2 ring-indigo-600 focus:ring'>
+                  <Button className='w-full text-white bg-orange-600 hover:bg-orange-500 active:bg-orange-600 ring-offset-2 ring-orange-600 focus:ring'>
                     Submit
                   </Button>
                 </div>
