@@ -20,7 +20,7 @@ const CTA = () => {
                             Bringing Your Neighborhood Together
                         </h2>
                         <p className="mt-3 text-gray-600">
-                            Discover and connect with trusted local services, stay updated on neighborhood events, and engage with your community like never before. Our platform is dedicated to making your neighborhood feel closer, safer, and more connected.
+                            Discover and connect with trusted local services, stay updated on neighborhood events , and engage with your community like never before. Our platform is dedicated to making your neighborhood feel closer, safer, and more connected.
                         </p>
                         <NavLink
                             href="/get-started"
